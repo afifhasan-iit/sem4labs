@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7639c67e-0159-4924-901e-a5cce7c23bdc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0002092270026104" />
+      <entry key="S2" value="1.2160105933154048" />
+      <entry key="S5" value="2.1350670695962677" />
+      <entry key="S10" value="3.0908275707978197" />
+      <entry key="S30" value="4.236984152930328" />
+      <entry key="S60" value="4.8127798082320385" />
+      <entry key="M2" value="6.396208348207734" />
+      <entry key="M5" value="16.121743405240345" />
+      <entry key="M10" value="30.127569378341096" />
+      <entry key="M15" value="38.68733804295017" />
+      <entry key="M30" value="50.743269408782666" />
+      <entry key="H1" value="58.58280560287708" />
+      <entry key="H2" value="63.073222559292844" />
+      <entry key="H4" value="65.47917366361011" />
+      <entry key="D1" value="67.57162546959186" />
+      <entry key="W1" value="67.93859844091543" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.313201837836848E-275" />
+      <entry key="S2" value="2.3991752545754665E-69" />
+      <entry key="S5" value="3.5648862254470174E-28" />
+      <entry key="S10" value="1.9089866048715597E-14" />
+      <entry key="S30" value="4.169376970870303E-5" />
+      <entry key="S60" value="0.01473796757491855" />
+      <entry key="M2" value="0.3812078141827363" />
+      <entry key="M5" value="3.474571429915251" />
+      <entry key="M10" value="7.756822221624244" />
+      <entry key="M15" value="10.224333701666989" />
+      <entry key="M30" value="13.535998049699561" />
+      <entry key="H1" value="15.600533307074384" />
+      <entry key="H2" value="16.755036725389708" />
+      <entry key="H4" value="17.365759649143282" />
+      <entry key="D1" value="17.89262029297347" />
+      <entry key="W1" value="17.984618540896722" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0016653025229842907" />
+      <entry key="MS500" value="0.27822626097813297" />
+      <entry key="S2" value="0.8793810963410702" />
+      <entry key="S5" value="1.8495920546422973" />
+      <entry key="S10" value="2.8564252689734264" />
+      <entry key="S30" value="4.11826285565678" />
+      <entry key="S60" value="4.759946424137397" />
+      <entry key="M2" value="6.732990500840924" />
+      <entry key="M5" value="19.544091213044524" />
+      <entry key="M10" value="37.83254865316175" />
+      <entry key="M15" value="48.866882094954086" />
+      <entry key="M30" value="64.24987069755022" />
+      <entry key="H1" value="74.16642444047201" />
+      <entry key="H2" value="79.81917744329013" />
+      <entry key="H4" value="82.84022650550484" />
+      <entry key="D1" value="85.46343738236743" />
+      <entry key="W1" value="85.92310090161581" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3DnAz23EaMResqEyMztzSySkLpg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7639c67e-0159-4924-901e-a5cce7c23bdc" name="Changes" comment="" />
+      <created>1778907720730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778907720730</updated>
+      <workItem from="1778907723862" duration="11081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
