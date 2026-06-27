@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/design pattern/22june/task/factory/fromWeb/Factory/Factory.iml" filepath="$PROJECT_DIR$/design pattern/22june/task/factory/fromWeb/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/22june/task/factory/LabTask/LabTask.iml" filepath="$PROJECT_DIR$/design pattern/22june/task/factory/LabTask/LabTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/22june/task/builder/MyString/MyString.iml" filepath="$PROJECT_DIR$/design pattern/22june/task/builder/MyString/MyString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/22june/task/builder/SQL/SQL.iml" filepath="$PROJECT_DIR$/design pattern/22june/task/builder/SQL/SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/22june/task/factory/fromWeb/abstractFactory/abstractFactory.iml" filepath="$PROJECT_DIR$/design pattern/22june/task/factory/fromWeb/abstractFactory/abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/22june/task/factory/fromWeb/fromWeb.iml" filepath="$PROJECT_DIR$/design pattern/22june/task/factory/fromWeb/fromWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/labwork1 (4may)/labwork1 (4may).iml" filepath="$PROJECT_DIR$/design pattern/labwork1 (4may)/labwork1 (4may).iml" />
+      <module fileurl="file://$PROJECT_DIR$/design pattern/may18/may18.iml" filepath="$PROJECT_DIR$/design pattern/may18/may18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sem4labs.iml" filepath="$PROJECT_DIR$/.idea/sem4labs.iml" />
+    </modules>
+  </component>
+</project>
