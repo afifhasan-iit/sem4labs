@@ -3,52 +3,12 @@ import java.util.ArrayList;
 
 public class  Main {
 
-    static void generateMCQQuestion(int point, String difficulty){
-        QuestionFactory  q1 = new MCQFactory().setPoint(point).setDifficulty(difficulty);
-        Question Question = q1.createQuestion();
-        QuestionRenderer Renderer = q1.createQuestionRenderer();
-        QuestionEvaluator Evaluator = q1.createQuestionEvaluator();
-
-        Renderer.render(Question);
-    }
-    static void generateTrueFalseQuestion(int point, String difficulty){
-        QuestionFactory  q1 = new TrueFalseFactory().setPoint(point).setDifficulty(difficulty);
-        Question Question = q1.createQuestion();
-        QuestionRenderer Renderer = q1.createQuestionRenderer();
-        QuestionEvaluator Evaluator = q1.createQuestionEvaluator();
-
-        Renderer.render(Question);
-    }
-    static void generateEssayQuestion(int point, String difficulty){
-        QuestionFactory  q1 = new EssayFactory().setPoint(point).setDifficulty(difficulty);
-        Question Question = q1.createQuestion();
-        QuestionRenderer Renderer = q1.createQuestionRenderer();
-        QuestionEvaluator Evaluator = q1.createQuestionEvaluator();
-
-        Renderer.render(Question);
-    }
-    static void generateProgrammingQuestion(int point, String difficulty){
-        QuestionFactory  q1 = new ProgrammingFactory().setPoint(point).setDifficulty(difficulty);
-        Question Question = q1.createQuestion();
-        QuestionRenderer Renderer = q1.createQuestionRenderer();
-        QuestionEvaluator Evaluator = q1.createQuestionEvaluator();
-
-        Renderer.render(Question);
-    }
 
 
 
     static void displayQuestion(QuestionSource source){
-//        System.out.println("Compiled Structural Components:");
-//        generateMCQQuestion(2,"medium");
-//        generateMCQQuestion(2,"easy");
-//        generateEssayQuestion(10,"hard");
-//        generateProgrammingQuestion(20,"hard");
-//        generateTrueFalseQuestion(1,"easy");
-
         generateQuestionBank(source);
         printFetchedQuestion(source);
-
     }
 
     static void generateQuestionBank(QuestionSource source){

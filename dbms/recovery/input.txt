@@ -1,0 +1,14 @@
+INITIAL: A=150, B=200, C=300
+
+<start T1>
+<T1, A, 150>
+<commit T1>
+<start T2>
+<T2, B, 250>
+<start T3>
+<checkpoint (T2, T3)>
+<start t4>
+<t4 , C , 1000>
+<T3, C, 350>
+<commit T2>
+<T3, A, 180>

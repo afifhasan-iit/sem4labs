@@ -229,7 +229,7 @@ public class Main {
 
         editor.delete(5);
 
-        System.out.println("Display after change:");
+        System.out.println("Display after modification");
         editor.display();
 
         editor.showStats();
