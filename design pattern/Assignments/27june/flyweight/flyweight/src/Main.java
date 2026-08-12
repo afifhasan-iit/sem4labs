@@ -1,7 +1,7 @@
-import java.util.HashMap;
-import java.util.Map;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 class CharacterStyle {
     private final String fontFamily;
@@ -211,7 +211,7 @@ public class Main {
         }
 
         // Insert some bold characters — same bold style shared
-        String[] bold = {"J", "a", "v", "a"};
+        String[] bold = {"J", "a", "v", "a"} ;
         for (int i = 0; i < bold.length; i++) {
             editor.insert(bold[i].charAt(0), 2, i + 1,
                     "Arial", 12, "Black", true, false, false);
