@@ -6,9 +6,9 @@
 #define MAX_TXN 20
 
 typedef struct {
-    int transaction;    // e.g. 1 for T1
-    char operation_type;  // 'R' or 'W'
-    char item;  // 'A', 'B', etc.
+    int transaction;    
+    char operation_type;  
+    char item;  
 } Operation;
 
 // Global vars
@@ -58,10 +58,10 @@ void buildGraph() {
 
     for (int i = 0; i < opCount; i++) {
         for (int j = i + 1; j < opCount; j++) {
-            // Skip same transaction
+            
             if (ops[i].transaction == ops[j].transaction) continue;
 
-            // Skip different data items
+            
             if (ops[i].item != ops[j].item) continue;
 
             // Check conflict: at least one is W

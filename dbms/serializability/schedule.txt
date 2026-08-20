@@ -1,4 +1,5 @@
-T1 R A
-T2 R A
-T1 W A
+T1 R B
 T2 W A
+T2 R B
+T3 W B
+T1 R A

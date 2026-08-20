@@ -112,7 +112,7 @@ void parseLogRecord(char *line) {
     if (strstr(cleanedLine, "checkpoint") != NULL) {
         record.isCheckpoint = 1;
 
-        // Parse the active transactions from the checkpoint log
+        // Parse the running transactions from the checkpoint log
         char *startParen = strchr(cleanedLine, '(');    //point to the first '(' character
         char *endParen = strchr(cleanedLine, ')');
         
@@ -187,6 +187,7 @@ void readAndParseFile(const char *filename) {
         trimWhitespace(singleLine);
         if (strlen(singleLine) == 0) continue;
 
+
         if (strncmp(singleLine, "INITIAL:", 8) == 0) {
             char *token = strtok(singleLine + 8, ",=");
             while (token != NULL) {
@@ -206,8 +207,7 @@ void readAndParseFile(const char *filename) {
 }
 
 
-// Classify transactions into REDO and UNDO lists using checkpoint logic
-// Classify transactions into REDO and UNDO lists using checkpoint logic
+//divide the transactions into groups(redo,undo)
 void classifyTransactions(void) {
     int checkpointIndex = -1;
 
@@ -341,7 +341,7 @@ int main(void) {
         }
     }
 
-    classifyTransactions(); // Modifies redoList, undoList, and recoveryStartIndex
+    classifyTransactions(); // get redoList, undoList, and recoveryStartIndex
 
     printf("\n\n\nLog Scheme: %s Modification\n\n", isImmediateScheme ? "Immediate" : "Deferred");
 
