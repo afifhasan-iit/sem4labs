@@ -1,4 +1,4 @@
-interface FileProcessor{
+    interface FileProcessor{
     String  view();
 }
 

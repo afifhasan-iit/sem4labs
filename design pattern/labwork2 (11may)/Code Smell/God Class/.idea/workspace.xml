@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7639c67e-0159-4924-901e-a5cce7c23bdc" name="Changes" comment="" />
+    <list default="true" id="7639c67e-0159-4924-901e-a5cce7c23bdc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/labwork1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/ApplyDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/CalculateTotal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/OrderProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/OrderProcessor2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/PaymentGateway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/PaymentProcess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/ProcessPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labwork1 (4may)/src/Standard.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778907720730</updated>
-      <workItem from="1778907723862" duration="11081000" />
+      <workItem from="1778907723862" duration="2431000" />
     </task>
     <servers />
   </component>
